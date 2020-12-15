@@ -12,4 +12,4 @@ async def on_ready():
 async def hello(ctx):
      await ctx.send("Hi")
 
-client.run ("Nzg4NDAwNDYyNjYzMTIyOTU1.X9i9Jg.teJZtHKh7DygWM7WpbHnrOUbfZ8")     
+client.run ("//Bot Token")     
